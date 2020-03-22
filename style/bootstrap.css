@@ -50,6 +50,8 @@ html {
   -webkit-tap-highlight-color: transparent;
 }
 
+
+
 @-ms-viewport {
   width: device-width;
 }
@@ -624,7 +626,7 @@ pre code {
   width: 100%;
   min-height: 1px;
   padding-right: 15px;
-  padding-left: 15px;
+  padding-left: 45px;
 }
 
 .col {
